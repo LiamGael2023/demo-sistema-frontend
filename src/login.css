@@ -68,13 +68,13 @@
   font-weight: 500;
   box-shadow: 0 4px 14px rgba(30, 64, 175, 0.3);
   transition: all 0.2s;
-  color: #fff;
+  color: #ffffff !important;
 }
 
 .btn-login:hover:not(:disabled) {
   transform: translateY(-1px);
   box-shadow: 0 6px 20px rgba(30, 64, 175, 0.4);
-  color: #fff;
+  color: #ffffff !important;
 }
 
 .visual-pattern {
