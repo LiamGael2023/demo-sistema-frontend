@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import './login.css';
 
 /**
  * Login - Sistema de Gestión de Agremiados
@@ -236,7 +237,7 @@ export default function App() {
 
   return (
     <>
-      <style>{loginStyles}</style>
+      
 
       <div className="login-page">
         {/* ============ LADO IZQUIERDO: FORMULARIO ============ */}
