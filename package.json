@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tabler/core": "^1.4.0",
+    "@tabler/icons-webfont": "^3.44.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },

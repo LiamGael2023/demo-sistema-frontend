@@ -173,7 +173,7 @@ const loginStyles = `
   }
 `;
 
-export default function Login() {
+export default function App() {
   const [showPassword, setShowPassword] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [showRecoverModal, setShowRecoverModal] = useState(false);
